@@ -1,4 +1,4 @@
-![Build Status](https://gitlab.com/pages/plain-html/badges/master/build.svg)
+![Build Status](https://www.w3.org/html/logo/downloads/HTML5_Badge_128.png)
 
 ---
 
